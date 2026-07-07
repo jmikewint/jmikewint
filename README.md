@@ -1,17 +1,17 @@
-# Hey, I'm Jayden 👋
+## Hey, I'm Jayden 👋
 
 I'm a Computer Science student at Western University who enjoys turning ideas into projects.
 
 Currently, I'm focused on building web applications, games, and experimenting with new technologies. I love creating projects that challenge me and help me grow as a developer.
 
-## 🚀 What I'm Working On
+### 🚀 What I'm Working On
 
 - 🎮 Interactive game projects
 - 🌐 Full-stack web development
 - 📱 Learning modern frameworks
 - 💡 Building ideas from scratch
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,21 +27,12 @@ Currently, I'm focused on building web applications, games, and experimenting wi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📌 Featured Projects
+## 📌 A Bit About Me
 
-- 🎲 Quiz & Lies
-- 📚 CSUS – Student Study Platform
-- 🎮 More coming soon...
-
-## 📈 GitHub Stats
-
-![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmikewint&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmikewint&layout=compact&theme=tokyonight)
-
-## 📫 Connect
-
-- GitHub: https://github.com/jmikewint
+- 🎮 Huge fan of games and game development
+- 💻 Love turning random ideas into real projects
+- 🌿 Always learning something new
+- 🎧 Most productive with headphones on
 
 ---
 
